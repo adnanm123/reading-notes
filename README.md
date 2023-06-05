@@ -10,7 +10,7 @@ Welcome to my reading journal. This will have all my reading assignments that I 
 
 ## Table of Contents
 
-### Code 102 Reading Notes
+## Code 102 Reading Notes
 
 - [Read: 01](./code102/class1notes.md)
 - [Read: 02](./code102/class2notes.md)
@@ -21,7 +21,7 @@ Welcome to my reading journal. This will have all my reading assignments that I 
 - [Read: 07](./code102/class7notes.md)
 - [Read: 08](./code102/class8notes.md)
 
-## URL links for code-201-reading-notes
+## Code 201 Reading Notes
 
 - [Read: 01](./code201/class1notes.md)
 - [Read: 02](./code201/class2notes.md)
@@ -38,3 +38,7 @@ Welcome to my reading journal. This will have all my reading assignments that I 
 - [Read: 13](./code201/class13notes.md)
 - [Read: 14](./code201/class14notes.md)
 - [Read: 15](./code201/class15notes.md)
+
+## Code 301 Reading Notes
+
+## Code 401 Reading Notes
