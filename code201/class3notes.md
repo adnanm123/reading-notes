@@ -61,9 +61,9 @@ console.log(people[2][2]); // Output: 'artist'
 
 1. `x -= f()` = This operator subtracts the value on the right side from the variable on the left side and assigns the result to the variable.
 2. `x += f()` = This operator adds the value on the right side to the variable on the left side and assigns the result to the variable.
-3. ` x *= f()` = This operator multiplies the value on the right side with the variable on the left side and assigns the result to the variable.
-4. ` x /= F()` = This operator divides the variable on the left side by the value on the right side and assigns the result to the variable.
-5. ` x%= f()` = This operator divides the variable on the left side by the value on the right side and assigns the remainder to the variable.
+3. `x *= f()` = This operator multiplies the value on the right side with the variable on the left side and assigns the result to the variable.
+4. `x /= F()` = This operator divides the variable on the left side by the value on the right side and assigns the result to the variable.
+5. `x %= f()` = This operator divides the variable on the left side by the value on the right side and assigns the remainder to the variable.
 
 ## 4. Read the code below and evaluate the last `expression` and explain what the result would be and why.
 
