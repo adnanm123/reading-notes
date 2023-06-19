@@ -1,11 +1,11 @@
 # Troubleshooting JavaScript
 
-## 1. Name some key differences between a Syntax Error and a Logic Error.
+## 1. Name some key differences between a Syntax Error and a Logic Error
 
 A syntax error occurs when the code is written incorrectly, violating the language's syntax rules. It is like a spelling or grammar mistake in the code. Syntax errors are detected by the computer when it reads the code, and they prevent the code from running properly.
 On the other hand, a logic error occurs when the code does not produce the intended results, even if it is written correctly in terms of syntax. It is like a mistake in the logic or plan of the code. Logic errors may not be caught by the computer and can lead to unexpected output or behavior. The code runs, but it produces the wrong output or behavior.
 
-## 2. List a few types of errors that you have encountered in past lab assignments and explain how you were able to correct them.
+## 2. List a few types of errors that you have encountered in past lab assignments and explain how you were able to correct them
 
 Some errors that I had were having code in different places it wasnt supposed to be which caused errors. Looking at the console I was able to see what was causing the problem and fix it. I also had some spelling issues within my code which also casues to not run.
 
