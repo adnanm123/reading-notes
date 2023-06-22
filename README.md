@@ -35,7 +35,7 @@ Welcome to my reading journal. This will have all my reading assignments that I 
 - [Read: 12](./code201/class12notes.md)
 - [Read: 13](./code201/class13notes.md)
 - [Read: 14](./code201/class14notes.md)
-- [Read: 14 - Psychological Safety](./code201/class14PsychologicalSafety.md)
+- [Read: 14.2](./code201/class14notes2.md)
 - [Read: 15](./code201/class15notes.md)
 
 ## Code 301 Reading Notes
