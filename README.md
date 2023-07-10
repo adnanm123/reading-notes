@@ -8,7 +8,7 @@ Hello, everyone! My name is **Adnan Mohamud**, and I go by the pronouns he/him. 
 
 Welcome to my reading journal. This will have all my reading assignments that I finish after every course. Each reading assignment has a list of questions being answered as part of the reading assignment.
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 - [Read: 01](./code102/class1notes.md)
 - [Read: 02](./code102/class2notes.md)
@@ -19,7 +19,7 @@ Welcome to my reading journal. This will have all my reading assignments that I 
 - [Read: 07](./code102/class7notes.md)
 - [Read: 08](./code102/class8notes.md)
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 - [Read: 01](./code201/class1notes.md)
 - [Read: 02](./code201/class2notes.md)
@@ -38,6 +38,15 @@ Welcome to my reading journal. This will have all my reading assignments that I 
 - [Read: 14.2](./code201/class14notes2.md)
 - [Read: 15](./code201/class15notes.md)
 
-## Code 301 Reading Notes
+## Code 301 - Intermediate Software Development
+
+- [Read: 01](./code301/class1notes.md)
+- [Read: 02](./code301/class2notes.md)
+- [Read: 03](./code301/class3notes.md)
+- [Read: 04](./code301/class4notes.md)
+- [Read: 05](./code301/class5notes.md)
+- [Read: 06](./code301/class6notes.md)
+- [Read: 07](./code301/class7notes.md)
+- [Read: 08](./code301/class8notes.md)
 
 ## Code 401 Reading Notes
