@@ -49,9 +49,9 @@ Metadata influences **Search Engine Optimization** by providing important inform
 
 The meta HTML tag is used in the head section of an HTML document to specify metadata. It can be used for various purposes such as setting character encoding, defining viewport properties, providing page descriptions, specifying keywords (deprecated), indicating authorship, and controlling robot crawling.
 
-# Miscellaneous
+## Miscellaneous
 
-### How to start to design a Website
+## How to start to design a Website
 
 ## 1. What is the first step to designing a Website?
 

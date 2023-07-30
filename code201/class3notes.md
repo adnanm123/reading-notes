@@ -18,7 +18,7 @@ Use an ordered list `<ol>` when you have a list with a specific order or sequenc
 
 2. Start Attribute: Use the `start` attribute on the `<ol>` tag to specify a different starting value for the numbering.
 
-# Learn CSS
+## Learn CSS
 
 ## 1. Describe the CSS properties of `margin` and `padding` as characters in a story. What is their role in a story titled: “The Box Model”?
 
@@ -34,7 +34,7 @@ In the story of "The Box Model," margin is like a friendly spacekeeper that main
 
 4. **Margin**: It is the space outside the border, creating separation between elements.
 
-# Learn JS
+## Learn JS
 
 ## 1. What `data types` can you store inside of an `Array`?
 
