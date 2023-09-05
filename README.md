@@ -54,5 +54,6 @@ Welcome to my reading journal. This will have all my reading assignments that I 
 - [Read: 12](./code301/class12notes.md)
 - [Read: 13](./code301/class13notes.md)
 - [Read: 14](./code301/class14notes.md)
+- [Read: 15](./code301/class15notes.md)
 
 ## Code 401 Reading Notes
