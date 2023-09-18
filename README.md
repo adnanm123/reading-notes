@@ -56,4 +56,20 @@ Welcome to my reading journal. This will have all my reading assignments that I 
 - [Read: 14](./code301/class14notes.md)
 - [Read: 15](./code301/class15notes.md)
 
-## Code 401 Reading Notes
+## Code 401 Advanced Software Development
+
+- [Read: 01](./code401/class1notes.md)
+- [Read: 02](./code401/class2notes.md)
+- [Read: 03](./code401/class3notes.md)
+- [Read: 04](./code401/class4notes.md)
+- [Read: 05](./code401/class5notes.md)
+- [Read: 06](./code401/class6notes.md)
+- [Read: 07](./code401/class7notes.md)
+- [Read: 08](./code401/class8notes.md)
+- [Read: 09](./code401/class9notes.md)
+- [Read: 10](./code401/class10notes.md)
+- [Read: 11](./code401/class11notes.md)
+- [Read: 12](./code401/class12notes.md)
+- [Read: 13](./code401/class13notes.md)
+- [Read: 14](./code401/class14notes.md)
+- [Read: 15](./code401/class15notes.md)
