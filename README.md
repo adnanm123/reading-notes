@@ -58,6 +58,8 @@ Welcome to my reading journal. This will have all my reading assignments that I 
 
 ## Code 401 Advanced Software Development
 
+- [Prep Terminal](./code401/preppracticeintheterminal.md)
+- [Prep SQL](./code401/prepintroductiontosqlnotes.md)
 - [Read: 01](./code401/class1notes.md)
 - [Read: 02](./code401/class2notes.md)
 - [Read: 03](./code401/class3notes.md)
