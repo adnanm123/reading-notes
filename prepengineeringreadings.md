@@ -11,3 +11,5 @@ In my journey towards this career, I believe that my unique perspective, backgro
 **Break It Down:** When faced with a challenging piece of code or a complex problem, I'll start by breaking it down into smaller, manageable tasks. This makes it less overwhelming and allows me to focus on solving one part at a time.
 
 **Seek Help and Collaborate:** I'll remind myself that it's okay to seek help from colleagues, online communities, or mentors. Collaboration and discussing the problem with others often lead to fresh insights and solutions I might not have thought of on my own.
+
+**Take Breaks and Refresh:** Sometimes, stepping away from the problem for a little while can do wonders. I'll make a habit of taking short breaks, going for a walk, or doing something unrelated to coding. This break can clear my mind and help me return to the problem with a fresh perspective.
