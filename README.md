@@ -78,3 +78,4 @@ Welcome to my reading journal. This will have all my reading assignments that I 
 - [Read: 13](./code401/class13notes.md)
 - [Read: 14](./code401/class14notes.md)
 - [Read: 15](./code401/class15notes.md)
+- [Read: 16](./code401/class16notes.md)
