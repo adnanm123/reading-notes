@@ -85,3 +85,4 @@ Welcome to my reading journal. This will have all my reading assignments that I 
 - [Read: 28](./code401/class28notes.md)
 - [Read: 29](./code401/class29notes.md)
 - [Read: 31](./code401/class31notes.md)
+- [Read: 36](./code401/class36notes.md)
