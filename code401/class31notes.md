@@ -2,7 +2,7 @@
 
 ## Choosing the State Structure
 
-### Summarize the five principles for structuring state.
+### Summarize the five principles for structuring state
 
 1. **Single Source of Truth:** Store all your state data in one place, making it easier to manage and track changes.
 2. **State Should Be Read-Only:** Always make copies and modify the copies rather than changing the state directly, ensuring data integrity.
