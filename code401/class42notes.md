@@ -1,0 +1,3 @@
+# Readings: Ethics
+
+ The article 'Self-Driving Car Ethics' discusses the moral issues involved in creating self-driving cars, like how they decide in dangerous situations. It made me think about how technology isn't just about coding and machines, but also about making tough choices. I agree with the article that the people who make self-driving cars need to think a lot about these ethics. What really stood out to me was the example of a car having to choose between hitting one person or another in an accident, which shows how complex and important these decisions are. It’s clear that ethics is a big part of technology and needs to be considered more."
