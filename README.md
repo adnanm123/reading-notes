@@ -91,4 +91,5 @@ Welcome to my reading journal. This will have all my reading assignments that I 
 - [Read: 33](./code401/class33notes.md)
 - [Read: 34](./code401/class34notes.md)
 - [Read: 38](./code401/class38notes.md)
-- [Read: 41](./code401/class42notes.md)
+- [Read: 42](./code401/class42notes.md)
+- [Read: 43](./code401/class43notes.md)
