@@ -1,0 +1,3 @@
+# Open-Source Software Contribution
+
+Contributing to open-source software is a great way to learn and help the community. Start with "First Timers Only" and GitHub’s "Guide to Open Source" for basic guidance. Learn why developers contribute from "What Motivates a Developer to Contribute to Open-Source Software?" Find easy projects in the "List of Beginner-Friendly Projects" and choose one that matches your programming language. Also, check out "Call for Code: Open Source for Good" for projects that have a positive impact on society. These resources will help you get started with open-source contributions.
